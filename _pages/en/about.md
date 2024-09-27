@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='mailto:massimo.lipari@mail.mcgill.ca'>first [dot] last [@] mail [dot] mcgill [dot] ca
 
 profile:
   align: right
