@@ -9,7 +9,7 @@ last_name: Lipari
 email: massimo.lipari@mail.mcgill.ca
 footer_text: # Removes unnecessary garbage
 keywords: # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://massimolipari.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
