@@ -32,41 +32,47 @@
 - title: Teaching & supervision
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Instructor, Phonetics 1 (LING 330, McGill University)
+      year: Winter 2023
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
   
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Graduate student mentor
+      year: Winter 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Part of McGill's Program for Undergraduate Research in Linguistics (PURL)
+        - Supervised an undergraduate student (Laurie Dumont) in work to collect and prepare (transcribe and force align) speech data for the AssNat corpus project.
 
 - title: Other work experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant, Meaning in Language (LING 260, McGill University)
+      year: Winter 2024
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
   
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Teaching Assistant, Intro to Linguistics (LING 201, McGill University)
+      year: Fall 2023
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Grader, Experimental Methods (LING 620, McGill University)
+      year: Fall 2023
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Teaching Assistant, Semantics 1 (LING 360, McGill University)
+      year: Fall 2022
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Research Assistant, prosodylab (McGill University)
+      year: Winter – Summer 2021
       description:
         - Description 1.
         - Description 2.

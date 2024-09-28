@@ -32,4 +32,6 @@ Most of my work falls under the label of corpus phonetics, but touches on a broa
 
 4. I am at the early stages of a collaboration with [Prof. Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/) (University of Glasgow), where we will be investing the articulatory and acoustic dynamics of rhotic consonants in Scottish English and other Englishes.
 
-In English, I pronounce my name [ˈma.sɪ.moʊ lɪˈpa.ɹi], but I'm not picky (especially not about the quality of the low vowels).
+In a previous life, I studied a bit of semantics, philosophy of language, and logic, and I have some experience teaching these topics as well.
+
+In English, I pronounce my name [ˈma.sɪ.moʊ lɪˈpa.ɹi], but I'm not very picky (especially about the quality of the low vowels).
