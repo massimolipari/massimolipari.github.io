@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: McGill University
+      institution: McGill University, Department of Linguistics
       location: Montreal, Quebec
       year: 2021 –
       description:
@@ -23,14 +23,14 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Visiting student researcher
-      institution: University of Glasgow
+      institution: University of Glasgow, Department of English Language & Linguistics
       location: Glasgow, Scotland
       year: Sept – Oct 2024
       description:
         - Description 1.
         - Description 2.
     - title: Bachelor of Arts
-      institution: McGill University
+      institution: McGill University, Department of Linguistics
       location: Montreal, Quebec
       year: 2018 – 2021
       description:
@@ -71,15 +71,20 @@
       year: 1909 - 1911
 
 - title: Awards and honours
-  type: amount_table
+  type: time_table
   contents:
-    - amount: 
-      items:
-        - Nobel Prize in Physics
+    - title: Doctoral Award
+      institution: Social Sciences and Humanities Research Council of Canada
+      year: May 2024 – June 2027
+      description:
+        - "Amount: CAD 120,000" 
         - Matteucci Medal
-    - amount: CAD 2,625
-      items:
-        - Max Planck Medal
+    - title: Doctoral training scholarship
+      institution: Fonds de recherche du Québec – Société et culture
+      year: May 2024 – Apr 2028
+      description:
+        - "Amount: CAD 100,000 (reduced to 23,334 due to partial overlap with SSHRC award)"
+        - Matteucci Medal
 
 - title: Languages
   type: list
