@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: McGill University, Montreal, Quebec
-      location: "Montreal, Quebec"
+      institution: McGill University
+      location: Montreal, Quebec
       year: 2021-
       description:
         - Description 1.
@@ -22,14 +22,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Lab visit
-      institution: University of Glasgow, Glasgow, Scotland
+    - title: Visiting student researcher
+      institution: University of Glasgow
+      location: Glasgow, Scotland
       year: Sept - Oct 2024
       description:
         - Description 1.
         - Description 2.
     - title: Bachelor of Arts
-      institution: McGill University, Montreal, Quebec
+      institution: McGill University
+      location: Montreal, Quebec
       year: 2018-2021
       description:
         - Description 1.
