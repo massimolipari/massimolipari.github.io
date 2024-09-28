@@ -73,11 +73,11 @@
 - title: Awards and honours
   type: amount_table
   contents:
-    - year: 1921
+    - amount: 
       items:
         - Nobel Prize in Physics
         - Matteucci Medal
-    - year: 2029
+    - amount: CAD 2,625
       items:
         - Max Planck Medal
 

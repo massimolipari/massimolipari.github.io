@@ -2,23 +2,23 @@
   {% for content in entry.contents %}
     <li class="list-group-item">
       <div class="row">
-        {% if content.amount %}
+        {% if content.year %}
           <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px">
             <table class="table-cv">
               <tbody>
                 <tr>
                   <td>
                     <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-                      {{- content.amount -}}
+                      {{- content.year -}}
                     </span>
                   </td>
                 </tr>
-                {% if content.location %}
+                {% if content.amount %}
                   <tr>
                     <td>
-                      <p class="location">
-                        <i class="fa-solid fa-location-dot iconlocation"></i>
-                        {{ content.location }}
+                      <p class="amount">
+                        {% comment %} <i class="fa-solid fa-location-dot iconlocation"></i> {% endcomment %}
+                        {{ content.amount }}
                       </p>
                     </td>
                   </tr>
