@@ -149,7 +149,7 @@
   type: map
   contents:
     - name: 'R <span style="font-weight: 400">(advanced)</span>'
-      value: Data wrangling & visualization (tidyverse), statistical analysis (see below), typesetting (Quarto), geospatial data (`sf`).
+      value: Data wrangling & visualization (tidyverse), statistical analysis (see below), typesetting (Quarto), geospatial data (sf).
 
     - name: 'Praat <span style="font-weight: 400">(advanced)</span>'
       value: Acoustic analysis, scripting.
@@ -163,7 +163,7 @@
     - name: 'bash <span style="font-weight: 400">(intermediate)</span>'
       value: Simple task automation, navigating/running analyses on remote servers.
 
-    - name: 'LaTeX <span style="font-weight: 400">(basic)</span>'
+    - name: 'LaTeX <span style="font-weight: 400">(beginner)</span>'
       value: Typesetting.
 
 - title: Statistical methods
@@ -172,13 +172,10 @@
     - <span class="font-weight-bold">Generalized additive (mixed) models</span> (intermediate)
     - <span class="font-weight-bold">Functional principal components analysis</span> (intermediate)
     - <span class="font-weight-bold">Frequentist linear mixed effects regression</span> (intermediate)
-    - <span class="font-weight-bold">Bayesian linear mixed effects regression</span> (basic)
-    - <span class="font-weight-bold">Causal inference</span> (basic)
+    - <span class="font-weight-bold">Bayesian linear mixed effects regression</span> (beginner)
+    - <span class="font-weight-bold">Causal inference</span> (beginner)
 
 - title: Languages
   type: list
   contents:
-    - <span class="font-weight-bold">English</span> (native)
-    - <span class="font-weight-bold">French</span> (fluent)
-    - <span class="font-weight-bold">German</span> (advanced)
-    - <span class="font-weight-bold">Italian</span> (heritage)
+    - <span class="font-weight-bold">English</span> (native), <span class="font-weight-bold">French</span> (fluent), <span class="font-weight-bold">German</span> (advanced), <span class="font-weight-bold">Italian</span> (heritage).
