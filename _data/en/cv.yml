@@ -13,6 +13,9 @@
   contents:
     - title: PhD
       institution: McGill University, Montreal, Quebec
+      location:
+        city: Montreal
+        region: Quebec
       year: 2021-
       description:
         - Description 1.
@@ -22,11 +25,11 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Lab visit
-        institution: University of Glasgow, Glasgow, Scotland
-        year: September - October 2024
-        description:
-          - Description 1.
-          - Description 2.
+      institution: University of Glasgow, Glasgow, Scotland
+      year: September - October 2024
+      description:
+        - Description 1.
+        - Description 2.
     - title: Bachelor of Arts
       institution: McGill University, Montreal, Quebec
       year: 2018-2021
