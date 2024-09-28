@@ -14,7 +14,7 @@
     - title: PhD
       institution: McGill University
       location: Montreal, Quebec
-      year: 2021-
+      year: 2021 –
       description:
         - Description 1.
         - Description 2.
@@ -25,14 +25,14 @@
     - title: Visiting student researcher
       institution: University of Glasgow
       location: Glasgow, Scotland
-      year: Sept - Oct 2024
+      year: Sept – Oct 2024
       description:
         - Description 1.
         - Description 2.
     - title: Bachelor of Arts
       institution: McGill University
       location: Montreal, Quebec
-      year: 2018-2021
+      year: 2018 – 2021
       description:
         - Description 1.
         - Description 2.
@@ -70,19 +70,8 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-now
-      description: A fork of al-folio theme with support for multiple languages.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
+- title: Awards and honours
+  type: amount_table
   contents:
     - year: 1921
       items:
@@ -92,19 +81,7 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Languages
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>English</b> (native), <b>French</b> (fluent), <b>German</b> (advanced), <b>Italian</b> (heritage)
