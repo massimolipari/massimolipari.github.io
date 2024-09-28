@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "Best way to reach me: <a href='mailto:massimo.lipari@mail.mcgill.ca'>first [dot] last [at] mail [dot] mcgill [dot] ca"
 
