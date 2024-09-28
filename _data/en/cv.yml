@@ -1,32 +1,29 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD (Linguistics)
       institution: McGill University, Department of Linguistics
       location: Montreal, Quebec
       year: 2021 –
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - "Research on corpus phonetics: language variation and change, speech dynamics, acoustic-articulatory mapping, phonetics/phonology interface."
+        - Supervised by Profs. Morgan Sonderegger and Meghan Clayards.
+        - Originally admitted to the MA program, fast-tracked in Winter 2023.
 
     - title: Visiting student researcher
       institution: University of Glasgow, Department of English Language & Linguistics
       location: Glasgow, Scotland
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Began a research project on articulatory and acoustic dynamics of rhotic consonants in Scottish English.
+        - Supervised by Prof. Jane Stuart-Smith.
 
     - title: Bachelor of Arts (Double major in Linguistics and Philosophy)
       institution: McGill University, Department of Linguistics
       location: Montreal, Quebec
       year: 2018 – 2021
       description:
-        - Dean's honour list (highest honour awarded)
+        - Dean's honour list (highest honour awarded).
 
 - title: Teaching & supervision
   type: time_table
@@ -40,7 +37,7 @@
     - title: Graduate student mentor
       year: Winter 2024
       description:
-        - Part of McGill's Program for Undergraduate Research in Linguistics (PURL)
+        - Part of McGill's Program for Undergraduate Research in Linguistics (PURL).
         - Supervised an undergraduate student (Laurie Dumont) in work to collect and prepare (transcribe and force align) speech data for the AssNat corpus project.
 
 - title: Other work experience
@@ -89,7 +86,7 @@
       institution: Fonds de recherche du Québec – Société et culture
       year: 2024 – 2028
       description:
-        - CAD 100,000 (reduced to 23,334 due to partial overlap with SSHRC award)
+        - CAD 100,000 (reduced to 23,333 due to partial overlap with SSHRC award)
 
     - title: Master's Training Scholarship (B1Z)
       institution: Fonds de recherche du Québec – Société et culture
@@ -140,36 +137,48 @@
   type: map
   contents:
     - name: Journal peer-review
-      value: "JASA Express Letters (2024: 1)"
+      value: "JASA Express Letters (2024: 1)."
     - name: Conference peer-review
-      value: "Anual Conference on African Linguistics (2023: 10)"
+      value: "Anual Conference on African Linguistics (2023: 10)."
     - name: Conference organization
-      value: "Montréal-Ottawa-Toronto-Hamilton Phonology/Phonetics Workshop (2024)"
+      value: "Montréal-Ottawa-Toronto-Hamilton Phonology/Phonetics Workshop (2024)."
     - name: Reading group organization
-      value: "McGill P* (Phonetics/Phonology) Reading Group (Fall 2022 – Winter 2024); McGill Bayesian Statistics Reading Group (Winter 2024)"
+      value: "McGill P* (Phonetics/Phonology) Reading Group (Fall 2022 – Winter 2024); McGill Bayesian Statistics Reading Group (Winter 2024)."
 
 - title: Technical skills
   type: map
   contents:
-    - name: "`R`"
-      value: Data wrangling & visualization (`tidyverse`), statistical analysis (see below), typesetting (Quarto), geospatial data (`sf`)
+    - name: 'R <span style="font-weight: 400">(advanced)</span>'
+      value: Data wrangling & visualization (tidyverse), statistical analysis (see below), typesetting (Quarto), geospatial data (`sf`).
 
-    - name: "`Praat`"
-      value: Acoustic analysis, scripting
+    - name: 'Praat <span style="font-weight: 400">(advanced)</span>'
+      value: Acoustic analysis, scripting.
 
-    - name: "`Python`"
-      value: Data wrangling & visualization (`numpy`, `pandas`, `seaborn`), machine learning (`scikit-learn`), forced alignment (`mfa`), corpus management (`polyglotdb`)
+    - name: 'Python <span style="font-weight: 400">(intermediate)</span>'
+      value: Data wrangling & visualization (numpy, pandas, seaborn), machine learning (scikit-learn), forced alignment (mfa), corpus management (polyglotdb).
 
-    - name: "`Git`"
-      value: Version control
+    - name: 'Git <span style="font-weight: 400">(intermediate)</span>'
+      value: Version control.
 
-    - name: "`bash`"
-      value: Simple task automation, navigating/running analyses on remote servers
+    - name: 'bash <span style="font-weight: 400">(intermediate)</span>'
+      value: Simple task automation, navigating/running analyses on remote servers.
 
-    - name: "`LaTeX`"
-      value: Typesetting
+    - name: 'LaTeX <span style="font-weight: 400">(basic)</span>'
+      value: Typesetting.
+
+- title: Statistical methods
+  type: list
+  contents:
+    - <span class="font-weight-bold">Generalized additive (mixed) models</span> (intermediate)
+    - <span class="font-weight-bold">Functional principal components analysis</span> (intermediate)
+    - <span class="font-weight-bold">Frequentist linear mixed effects regression</span> (intermediate)
+    - <span class="font-weight-bold">Bayesian linear mixed effects regression</span> (basic)
+    - <span class="font-weight-bold">Causal inference</span> (basic)
 
 - title: Languages
   type: list
   contents:
-    - <span class="font-weight-bold">English</span> (native), <span class="font-weight-bold">French</span> (fluent), <span class="font-weight-bold">German</span> (advanced), <span class="font-weight-bold">Italian</span> (heritage)
+    - <span class="font-weight-bold">English</span> (native)
+    - <span class="font-weight-bold">French</span> (fluent)
+    - <span class="font-weight-bold">German</span> (advanced)
+    - <span class="font-weight-bold">Italian</span> (heritage)
