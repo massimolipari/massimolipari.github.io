@@ -138,12 +138,14 @@
   contents:
     - name: Journal peer-review
       value: "JASA Express Letters (2024: 1)."
-    - name: Conference peer-review
-      value: "Anual Conference on African Linguistics (2023: 10)."
+    - name: Conference abstract review
+      value: "Annual Conference on African Linguistics (2023: 10)."
     - name: Conference organization
       value: "Montréal-Ottawa-Toronto-Hamilton Phonology/Phonetics Workshop (2024)."
     - name: Reading group organization
       value: "McGill P* (Phonetics/Phonology) Reading Group (Fall 2022 – Winter 2024); McGill Bayesian Statistics Reading Group (Winter 2024)."
+    - name: Other
+      value: Graduate student representative at departmental meetings (Fall 2024 –)
 
 - title: Technical skills
   type: map
