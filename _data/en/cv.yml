@@ -98,20 +98,23 @@
 - title: Technical skills
   type: map
   contents:
-    - name: `R`
-      value: 
+    - name: "`R`"
+      value: Data wrangling & visualization (`tidyverse`), statistical analysis (see below), typesetting (Quarto), geospatial data (`sf`)
 
-    - name: `Praat`
-      value: 
+    - name: "`Praat`"
+      value: Acoustic analysis, scripting
 
-    - name: `Python`
-      value: 
+    - name: "`Python`"
+      value: Data wrangling & visualization (`numpy`, `pandas`, `seaborn`), machine learning (`scikit-learn`), forced alignment (`mfa`), corpus management (`polyglotdb`)
 
-    - name: `bash`
-      value: 
+    - name: "`Git`"
+      value: Version control
 
-    - name: `LaTeX`
-      value: 
+    - name: "`bash`"
+      value: Simple task automation, navigating/running analyses on remote servers
+
+    - name: "`LaTeX`"
+      value: Typesetting
 
 - title: Languages
   type: list
