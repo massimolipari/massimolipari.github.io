@@ -142,22 +142,22 @@
 - title: Technical skills
   type: map
   contents:
-    - name: 'R <span style="font-weight: 400">(advanced)</span>'
+    - name: 'R <span style="font-weight: 300">(advanced)</span>'
       value: Data wrangling & visualization (tidyverse), statistical analysis (see below), typesetting (Quarto), geospatial data (sf).
 
-    - name: 'Praat <span style="font-weight: 400">(advanced)</span>'
+    - name: 'Praat <span style="font-weight: 300">(advanced)</span>'
       value: Acoustic analysis, scripting.
 
-    - name: 'Python <span style="font-weight: 400">(intermediate)</span>'
+    - name: 'Python <span style="font-weight: 300">(intermediate)</span>'
       value: Data wrangling & visualization (numpy, pandas, seaborn), machine learning (scikit-learn), forced alignment (mfa), corpus management (polyglotdb).
 
-    - name: 'Git <span style="font-weight: 400">(intermediate)</span>'
+    - name: 'Git <span style="font-weight: 300">(intermediate)</span>'
       value: Version control.
 
-    - name: 'bash <span style="font-weight: 400">(intermediate)</span>'
+    - name: 'bash <span style="font-weight: 300">(intermediate)</span>'
       value: Simple task automation, navigating/running analyses on remote servers.
 
-    - name: 'LaTeX <span style="font-weight: 400">(beginner)</span>'
+    - name: 'LaTeX <span style="font-weight: 300">(beginner)</span>'
       value: Typesetting.
 
 - title: Statistical methods
