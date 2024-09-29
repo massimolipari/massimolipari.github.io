@@ -30,9 +30,6 @@
   contents:
     - title: Instructor, Phonetics 1 (LING 330, McGill University)
       year: Winter 2023
-      description:
-        - Description 1.
-        - Description 2.
   
     - title: Graduate student mentor
       year: Winter 2024
@@ -46,32 +43,27 @@
     - title: Teaching Assistant, Meaning in Language (LING 260, McGill University)
       year: Winter 2024
       description:
-        - Description 1.
-        - Description 2.
+        - "Instructor: Dr. Mathieu Paillé."
   
     - title: Teaching Assistant, Intro to Linguistics (LING 201, McGill University)
       year: Fall 2023
       description:
-        - Description 1.
-        - Description 2.
+        - "Instructor: Dr. Andrei Munteanu."
 
     - title: Grader, Experimental Methods (LING 620, McGill University)
       year: Fall 2023
       description:
-        - Description 1.
-        - Description 2.
+        - "Instructor: Prof. Morgan Sonderegger."
 
     - title: Teaching Assistant, Semantics 1 (LING 360, McGill University)
       year: Fall 2022
       description:
-        - Description 1.
-        - Description 2.
+        - "Instructor: Prof. Brendan Gillon."
 
     - title: Research Assistant, prosodylab (McGill University)
       year: Jan – Aug 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Worked under Prof. Michael Wagner.
 
 - title: Research awards and bursaries
   type: time_table
