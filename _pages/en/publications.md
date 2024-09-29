@@ -1,7 +1,7 @@
 ---
 page_id: publications
 layout: page
-permalink: /academic_output/
+permalink: /pubs/
 title: Academic output
 years: [2024, 2023]
 nav: true
