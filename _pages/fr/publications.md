@@ -16,6 +16,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --locale fr%}
+{% bibliography --locale fr --type_names {unpublished: Sousmis, article: Articles de revue, inproceedings: Actes de colloque, misc: Commnunications orales et par affiche} %}
 
 </div>
