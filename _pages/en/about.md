@@ -13,6 +13,7 @@ profile:
     <p>1085, ave du Docteur-Penfield</p>
     <p>Montréal, Québec</p>
     <p>H3A 1A7</p>
+    <p>Canada</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
