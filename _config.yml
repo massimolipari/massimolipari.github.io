@@ -328,7 +328,7 @@ scholar:
   group_by: year
   group_order: descending
 
-  sort_by: year, month
+  sort_by: year, month, day
   order: descending, descending
   type_order: [unpublished, article, inproceedings, misc]
   type_names: {unpublished: Under review, article: Journal articles, inproceedings: Conference proceedings, misc: Talks and posters}
