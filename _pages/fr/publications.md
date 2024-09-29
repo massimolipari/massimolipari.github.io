@@ -3,6 +3,13 @@ page_id: publications
 layout: page
 permalink: /pubs/
 title: Recherche et publications
+sections:
+  - bibquery: "@unpublished"
+    text: "Articles soumis"
+  - bibquery: "@inproceedings"
+    text: "Actes de colloques"
+  - bibquery: "@misc"
+    text: "Communications orales et par affiche"
 years: [2024, 2023]
 nav: true
 nav_order: 2
@@ -16,6 +23,26 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --locale fr --type_names {unpublished: Sousmis, article: Articles de revue, inproceedings: Actes de colloque, misc: Commnunications orales et par affiche} %}
+{%- for section in page.sections %}
+  <a id="{{section.text}}"></a>
+  <p class="bibtitle">{{section.text}}</p>
+  {%- for y in page.years %}
+
+    {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
+    {%- capture citecount -%}
+    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] -%}
+    {%- endcapture -%}
+
+    {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
+    {%- if citecount !="0" %}
+
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
+
+    {%- endif -%}
+
+  {%- endfor %}
+
+{%- endfor %}
 
 </div>
