@@ -1350,7 +1350,7 @@ ninja-keys::part(ninja-input-wrapper) {
     display: none;
   }
   /* Publications - Year display in mobile */
-  h2.year {
+  h3.year {
   margin-bottom: 2rem!important;
   // reset
   border-top: 0 !important;
@@ -1363,7 +1363,7 @@ ninja-keys::part(ninja-input-wrapper) {
 p.bibtitle {
 color: var(--global-theme-color);
 font-weight: 400;
-font-size: 1.5em;
-text-align: center;
-border-bottom: 1px solid var(--global-theme-color);
+font-size: 2em;
+text-align: right;
+border-top: 1px solid var(--global-theme-color);
 }
