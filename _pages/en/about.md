@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: About
+title: Bio
 permalink: /
 subtitle: "E-mail: <a href='mailto:massimo.lipari@mail.mcgill.ca'>first [dot] last [at] mail [dot] mcgill [dot] ca"
 
