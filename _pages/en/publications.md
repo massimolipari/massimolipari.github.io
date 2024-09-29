@@ -36,7 +36,7 @@ nav_order: 2
     {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
     {%- if citecount != "0" %}
 
-      {% bibliography -f {{site.scholar.bibliography}} --locale en -q {{section.bibquery}}[year={{y}}] %}
+      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
 
     {%- endif -%}
 
