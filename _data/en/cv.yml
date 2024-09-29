@@ -69,25 +69,25 @@
   type: time_table
   contents:
     - title: Doctoral Award
-      institution: Social Sciences and Humanities Research Council of Canada
+      institution: Social Sciences and Humanities Research Council of Canada (SSHRC)
       year: 2024 – 2027
       description:
         - CAD 120,000
 
     - title: Doctoral Training Scholarship (B2Z)
-      institution: Fonds de recherche du Québec – Société et culture
+      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
       year: 2024 – 2028
       description:
         - CAD 100,000 (reduced to 23,333 due to partial overlap with SSHRC award)
 
     - title: Master's Training Scholarship (B1Z)
-      institution: Fonds de recherche du Québec – Société et culture
+      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
       year: 2022 – 2023
       description:
         - CAD 17,500
 
     - title: Canada Graduate Scholarship – Master's
-      institution: Social Sciences and Humanities Research Council of Canada
+      institution: Social Sciences and Humanities Research Council of Canada (SSHRC)
       year: 2021 – 2022
       description:
         - CAD 17,500
@@ -107,14 +107,20 @@
       description:
         - CAD 2,625
 
+    - title: Graduate Student Travel Award
+      institution: McGill Post-Graduate Students' Society (PGSS)
+      year: 2024
+      description:
+        - CAD 2,625
+
     - title: Student Travel Award
-      institution: Internation Phonetic Association
+      institution: Internation Phonetic Association (IPA)
       year: 2023
       description:
         - GBP 600
 
     - title: Student Travel Award
-      institution: Centre for Research on Brain, Language and Music
+      institution: Centre for Research on Brain, Language and Music (CRBLM)
       year: 2023
       description:
         - CAD 350
@@ -137,7 +143,7 @@
     - name: Reading group organization
       value: "McGill P* (Phonetics/Phonology) Reading Group (Fall 2022 – Winter 2024); McGill Bayesian Statistics Reading Group (Winter 2024)."
     - name: Other
-      value: Graduate student representative at departmental meetings (Fall 2024 –)
+      value: Graduate student representative at departmental meetings (Fall 2024 – present).
 
 - title: Technical skills
   type: map
