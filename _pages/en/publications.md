@@ -30,13 +30,13 @@ nav_order: 2
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
     {%- capture citecount -%}
-    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] -%}
+    {%- bibliography_count -f {{site.scholar.bibliography}} --locale en -q {{section.bibquery}}[year={{y}}] -%}
     {%- endcapture -%}
 
     {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
     {%- if citecount !="0" %}
 
-      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
+      {% bibliography -f {{site.scholar.bibliography}} --locale en -q {{section.bibquery}}[year={{y}}] %}
 
     {%- endif -%}
 

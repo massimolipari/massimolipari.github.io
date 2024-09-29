@@ -6,7 +6,7 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
-description: 'Dernière mise à jour: <b>Septembre 2024</b>.'
+description: 'Dernière mise à jour: <b>septembre 2024</b>.'
 toc:
   sidebar: left
 ---

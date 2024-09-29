@@ -308,7 +308,7 @@ scholar:
   first_name: [Massimo]
 
   style: apa
-  locale: en
+  # locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
