@@ -309,6 +309,7 @@ scholar:
 
   style: apa
   # locale: en
+  allow_locale_overrides: true
 
   source: /_bibliography/
   bibliography: papers.bib
