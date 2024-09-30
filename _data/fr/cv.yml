@@ -176,8 +176,8 @@
   contents:
     - <span class="font-weight-bold">Modèles additifs généralisés (à effets mixtes)</span> (intermédiaire)
     - <span class="font-weight-bold">Analyse en composantes principales fonctionelles</span> (intermédiaire)
-    - <span class="font-weight-bold">Régression linéaire/logistique à effets mixtes fréquentiste</span> (intermédiaire)
-    - <span class="font-weight-bold">Régression linéaire/logistique à effets mixtes bayésienne</span> (débutant)
+    - <span class="font-weight-bold">Régression linéaire/logistique (à effets mixtes) fréquentiste</span> (intermédiaire)
+    - <span class="font-weight-bold">Régression linéaire/logistique (à effets mixtes) bayésienne</span> (débutant)
     - <span class="font-weight-bold">Inférence causale</span> (débutant)
 
 - title: Langues
