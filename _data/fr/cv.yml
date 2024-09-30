@@ -1,101 +1,186 @@
-- title: Informações Gerais
+- title: Éducation
+  type: time_table
+  contents:
+    - title: Doctorat (Linguistique)
+      institution: Université McGill, Département de linguistique
+      location: Montréal (Québec)
+      year: 2021 –
+      description:
+        - "Recherche en phonétique de corpus: variation et changement linguistiques, aspect dynamique de la parole, lien entre l'articulation et l'acoustique, interface phonétique/phonologie."
+        - Dirigé par le professeur Morgan Sonderegger et la professeure Meghan Clayards.
+        - "D'abord admis au programme de maîtrise: passage accélé au doctorat à l'hiver 2023.
+
+    - title: Visiting Student Researcher
+      institution: Université de Glasgow, Département de langue anglaise et de linguistique
+      location: Glasgow (Écosse)
+      year: SEP – OCT 2024
+      description:
+        - Début d'un projet de recherche sur les aspects dynamiques de l'articulation et de l'acoustique des consonnes rhotiques en anglais écossais.
+        - Dirigé par la professeure Jane Stuart-Smith.
+
+    - title: Baccalauréat ès arts (Double concentration en linguistique et philosophie)
+      institution: Université McGill, Faculté des arts
+      location: Montréal (Québec)
+      year: 2018 – 2021
+      description:
+        - Tableau d'honneur du doyen (plus haute distinction décernée).
+
+- title: Enseignement et direction
+  type: time_table
+  contents:
+    - title: Enseignant, <i>Phonetics 1</i> (LING 330, Université McGill)
+      year: Hiver 2023
+  
+    - title: Mentor
+      year: Hiver 2024
+      description:
+        - Dans le cadre du <i>Program for Undergraduate Research in Linguistics</i> (PURL) de l'université McGill.
+        - "Direction d'une étudiante de premier cycle (Laurie Dumont) dans le cadre du projet du corpus AssNat: collecte et pépartion (transcription et alignement forcé) de données vocales."
+        
+- title: Autre expérience académique
+  type: time_table
+  contents:
+    - title: Conférencier invité, <i>Meaning in Language</i> (LING 260, Université McGill)
+      year: Été 2024
+      description:
+        - "Enseignante: Irene B. R. Smith."
+
+    - title: Auxiliaire d'enseignement, <i>Meaning in Language</i> (LING 260, Université McGill)
+      year: Hiver 2024
+      description:
+        - "Enseignant: Mathieu Paillé."
+  
+    - title: Auxiliaire d'enseignement, <i>Intro to Linguistics</i> (LING 201, Université McGill)
+      year: Automne 2023
+      description:
+        - "Enseignant: Andrei Munteanu."
+
+    - title: Correcteur, <i>Experimental Methods</i> (LING 620, Université McGill)
+      year: Automne 2023
+      description:
+        - "Enseignant: Morgan Sonderegger."
+
+    - title: Auxiliaire d'enseignement, <i>Semantics 1</i> (LING 360, Université McGill)
+      year: Automne 2022
+      description:
+        - "Enseignant: Brendan Gillon."
+
+    - title: Auxiliaire de recherche, prosodylab (Université McGill)
+      year: JAN – AOÛT 2021
+      description:
+        - Sous la direction du professeur Michael Wagner.
+
+- title: Bourses de recherche et financement
+  type: time_table
+  contents:
+    - title: Bourse doctorale
+      institution: Conseil de recherche en sciences humaines du Canada (CRSH)
+      year: 2024 – 2027
+      description:
+        - CAD 120,000
+
+    - title: Bourse de doctorat en recherche (B2Z)
+      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
+      year: 2024 – 2028
+      description:
+        - CAD 100,000 (reduced to 23,333 due to partial overlap with SSHRC award)
+
+    - title: Bourse de maîtrise en recherche (B1Z)
+      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
+      year: 2022 – 2023
+      description:
+        - CAD 17,500
+
+    - title: Bourse d'études supérieures du Canada – Maîtrise
+      institution: Conseil de recherche en sciences humaines (CRSH)
+      year: 2021 – 2022
+      description:
+        - CAD 17,500
+
+    - title: Bourse d'admission J. W. McConnell
+      institution: Université McGill
+      year: 2018 – 2019
+      description:
+        - CAD 3,000
+
+- title: Bourses de mobilité
+  type: time_table
+  contents:
+    - title: Bourse de mobilité McGill-Glasgow
+      institution: McGill University
+      year: 2024
+      description:
+        - CAD 2,625
+
+    - title: Bourse de mobilité pour étudiants de cycle supérieur
+      institution: Association étudiante des cycles supérieures de l'université McGill
+      year: 2024
+      description:
+        - CAD 750
+
+    - title: Bourse de mobilité étudiante
+      institution: Internation Phonetic Association (IPA)
+      year: 2023
+      description:
+        - GBP 600
+
+    - title: Bourse de mobilité étudiante
+      institution: Centre de recherche sur le cerveau, le langage et la musique (CRBLM)
+      year: 2023
+      description:
+        - CAD 350
+
+    - title: Bourse de mobilité du département de linguistique
+      institution: Université McGill, Département de linguistique
+      year: 2023
+      description:
+        - CAD 600
+
+- title: Service à la communauté académique
   type: map
   contents:
-    - name: Nome Completo
-      value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
-    - name: Idiomas
-      value: Inglês, Alemão
+    - name: Révision d'articles de revues
+      value: "JASA Express Letters (2024: 1)."
+    - name: Révisions de propositions pour colloques
+      value: "Annual Conference on African Linguistics (2023: 10)."
+    - name: Organisation de colloques
+      value: "Atelier de phonétique/phonologie Montréal-Ottawa-Toronto-Hamilton (2024)."
+    - name: Organisation de groupes de lecture
+      value: "Groupe de lecture P* (phonétique/phonologie) de McGill (automne 2022 – Hiver 2024); Groupe de lecture sur la statistique bayésienne de McGill (hiver 2024)."
+    - name: Autres
+      value: Représentant des étudiants de cycle supérieur aux réunions du département de linguistique de McGill (automne 2024 – aujourd'hui).
 
-- title: Educação
-  type: time_table
+- title: Compétences techniques
+  type: map
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
-      description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
-      description:
-        - Descrição 1.
-        - Descrição 2.
+    - name: 'R <span style="font-weight: 300">(avancé)</span>'
+      value: Manipulation et visualisation de données (tidyverse), analyse statistique (voir ci-dessous), mise en page (Quarto), données géospatiales (sf).
 
-- title: Experiência
-  type: time_table
-  contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
-      year: 1933
-      description:
-        - Descrição 1.
-        - Descrição 2.
+    - name: 'Praat <span style="font-weight: 300">(avancé)</span>'
+      value: Analyse acoustique, scriptage.
 
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
-      year: 1917-1933
+    - name: 'Python <span style="font-weight: 300">(intermédiaire)</span>'
+      value: Manipulation et visualisation de données (numpy, pandas, seaborn), apprentissage automatique (scikit-learn), alignemnt forcé (mfa), gestion de corpus (polyglotdb).
 
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
-      year: 1911 - 1917
-      description:
+    - name: 'Git <span style="font-weight: 300">(intermédiaire)</span>'
+      value: Gestion de versions.
 
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
-      year: 1909 - 1911
+    - name: 'bash <span style="font-weight: 300">(intermédiaire)</span>'
+      value: Automatisation de tâches simples, navigation/exécution de code sur serveur distant.
 
-- title: Projetos de Código Aberto
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
+    - name: 'LaTeX <span style="font-weight: 300">(débutant)</span>'
+      value: Mise en page.
 
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
-
-- title: Honrarias e Prêmios
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
-    - year: 2029
-      items:
-        - Medalha Max Planck
-
-- title: Interesses Acadêmicos
-  type: nested_list
-  contents:
-    - title: Tópico 1.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-
-- title: Outros Interesses
+- title: Méthodes d'analyse statistique
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <span class="font-weight-bold">Modèles additifs généralisés (à effets mixtes)</span> (intermédiaire)
+    - <span class="font-weight-bold">Analyse en composantes principales fonctionelles</span> (intermédiaire)
+    - <span class="font-weight-bold">Régression linéaire/logistique à effets mixtes fréquentiste</span> (intermédiaire)
+    - <span class="font-weight-bold">Régression linéaire/logistique à effets mixtes bayésienne</span> (débutant)
+    - <span class="font-weight-bold">Inférence causale</span> (débutant)
+
+- title: Langues
+  type: list
+  contents:
+    - <span class="font-weight-bold">Anglais</span> (langue maternelle), <span class="font-weight-bold">Français</span> (quasi-natif), <span class="font-weight-bold">German</span> (avancé), <span class="font-weight-bold">Italian</span> (langue d'origine).

@@ -9,7 +9,7 @@ sections:
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
   - bibquery: "@misc"
-    text: "Communications orales et par affiche"
+    text: "Communications orales et par affiches"
 years: [2024, 2023]
 nav: true
 nav_order: 2

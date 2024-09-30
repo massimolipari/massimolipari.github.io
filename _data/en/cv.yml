@@ -176,8 +176,8 @@
   contents:
     - <span class="font-weight-bold">Generalized additive (mixed) models</span> (intermediate)
     - <span class="font-weight-bold">Functional principal components analysis</span> (intermediate)
-    - <span class="font-weight-bold">Frequentist linear mixed effects regression</span> (intermediate)
-    - <span class="font-weight-bold">Bayesian linear mixed effects regression</span> (beginner)
+    - <span class="font-weight-bold">Frequentist linear/logistic mixed effects regression</span> (intermediate)
+    - <span class="font-weight-bold">Bayesian linear/logistic mixed effects regression</span> (beginner)
     - <span class="font-weight-bold">Causal inference</span> (beginner)
 
 - title: Languages
