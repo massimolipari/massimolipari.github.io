@@ -83,7 +83,7 @@
       institution: Fonds de recherche du Québec – Société et culture (FRQSC)
       year: 2024 – 2028
       description:
-        - CAD 100,000 (reduced to 23,333 due to partial overlap with SSHRC award)
+        - CAD 100,000 (réduit à 23,333 en raison d'un chevauchement partiel avec la bourse du CRSH ci-dessus)
 
     - title: Bourse de maîtrise en recherche (B1Z)
       institution: Fonds de recherche du Québec – Société et culture (FRQSC)
@@ -146,7 +146,7 @@
     - name: Organisation de colloques
       value: "Atelier de phonétique/phonologie Montréal-Ottawa-Toronto-Hamilton (2024)."
     - name: Organisation de groupes de lecture
-      value: "Groupe de lecture P* (phonétique/phonologie) de McGill (automne 2022 – Hiver 2024); Groupe de lecture sur la statistique bayésienne de McGill (hiver 2024)."
+      value: "Groupe de lecture P* (phonétique/phonologie) de McGill (automne 2022 – hiver 2024); Groupe de lecture sur la statistique bayésienne de McGill (hiver 2024)."
     - name: Autres
       value: Représentant des étudiants de cycle supérieur aux réunions du département de linguistique de McGill (automne 2024 – aujourd'hui).
 
@@ -160,7 +160,7 @@
       value: Analyse acoustique, scriptage.
 
     - name: 'Python <span style="font-weight: 300">(intermédiaire)</span>'
-      value: Manipulation et visualisation de données (numpy, pandas, seaborn), apprentissage automatique (scikit-learn), alignemnt forcé (mfa), gestion de corpus (polyglotdb).
+      value: Manipulation et visualisation de données (numpy, pandas, seaborn), apprentissage automatique (scikit-learn), alignement forcé (mfa), gestion de corpus (polyglotdb).
 
     - name: 'Git <span style="font-weight: 300">(intermédiaire)</span>'
       value: Gestion de versions.
