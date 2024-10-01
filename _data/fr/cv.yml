@@ -7,18 +7,18 @@
       year: 2021 –
       description:
         - "Recherche en phonétique de corpus: variation et changement linguistiques, aspect dynamique de la parole, lien entre l'articulation et l'acoustique, interface phonétique/phonologie."
-        - Dirigé par le professeur Morgan Sonderegger et la professeure Meghan Clayards.
+        - Sous la direction du le professeur Morgan Sonderegger et de la professeure Meghan Clayards.
         - "D'abord admis au programme de maîtrise: passage accélé au doctorat à l'hiver 2023."
 
-    - title: Visiting Student Researcher
+    - title: Chercheur étudiant invité
       institution: Université de Glasgow, Département de langue anglaise et de linguistique
       location: Glasgow (Écosse)
       year: SEP – OCT 2024
       description:
         - Début d'un projet de recherche sur les aspects dynamiques de l'articulation et de l'acoustique des consonnes rhotiques en anglais écossais.
-        - Dirigé par la professeure Jane Stuart-Smith.
+        - Sous la direction de la professeure Jane Stuart-Smith.
 
-    - title: Baccalauréat ès arts (Double concentration en linguistique et philosophie)
+    - title: Baccalauréat ès arts (Double majeure en linguistique et en philosophie)
       institution: Université McGill, Faculté des arts
       location: Montréal (Québec)
       year: 2018 – 2021
@@ -176,11 +176,11 @@
   contents:
     - <span class="font-weight-bold">Modèles additifs généralisés (à effets mixtes)</span> (intermédiaire)
     - <span class="font-weight-bold">Analyse en composantes principales fonctionelles</span> (intermédiaire)
-    - <span class="font-weight-bold">Régression linéaire/logistique (à effets mixtes) fréquentiste</span> (intermédiaire)
-    - <span class="font-weight-bold">Régression linéaire/logistique (à effets mixtes) bayésienne</span> (débutant)
+    - <span class="font-weight-bold">Régression linéaire/logistique (à effets mixtes) fréquentistes</span> (intermédiaire)
+    - <span class="font-weight-bold">Régression linéaire/logistique (à effets mixtes) bayésiennes</span> (débutant)
     - <span class="font-weight-bold">Inférence causale</span> (débutant)
 
 - title: Langues
   type: list
   contents:
-    - <span class="font-weight-bold">Anglais</span> (langue maternelle), <span class="font-weight-bold">Français</span> (quasi-natif), <span class="font-weight-bold">German</span> (avancé), <span class="font-weight-bold">Italian</span> (langue d'origine).
+    - <span class="font-weight-bold">Anglais</span> (langue maternelle), <span class="font-weight-bold">français</span> (quasi-natif), <span class="font-weight-bold">allemand</span> (avancé), <span class="font-weight-bold">italien</span> (langue d'origine).

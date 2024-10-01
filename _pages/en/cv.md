@@ -5,8 +5,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: 'Last updated: <b>September 2024</b>.'
+cv_pdf: lipari-cv-en-2024-10-01
+description: 'Last updated: <b>October 2024</b>.'
 toc:
   sidebar: left
 ---
