@@ -5,7 +5,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: lipari-cv-fr-2024-10-01
+cv_pdf: lipari-cv-fr-2024-10-01.pdf
 description: 'Dernière mise à jour: <b>octobre 2024</b>.'
 toc:
   sidebar: left
