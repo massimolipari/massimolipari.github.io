@@ -25,7 +25,7 @@
       description:
         - Tableau d'honneur du doyen (plus haute distinction décernée).
 
-- title: Enseignement et direction
+- title: Enseignement et encadrement
   type: time_table
   contents:
     - title: Enseignant, <i>Phonetics 1</i> (LING 330, Université McGill)
@@ -35,7 +35,7 @@
       year: JAN – AOÛT 2024
       description:
         - Dans le cadre du <i>Program for Undergraduate Research in Linguistics</i> (PURL) de l'université McGill.
-        - "Direction d'une étudiante de premier cycle (Laurie Dumont) dans le cadre du projet du corpus AssNat: collecte et pépartion (transcription et alignement forcé) de données vocales."
+        - "Encadrement d'une étudiante de premier cycle (Laurie Dumont) dans le cadre du projet du corpus AssNat: collecte et pépartion (transcription et alignement forcé) de données vocales."
         
 - title: Autre expérience académique
   type: time_table
