@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Je suis un étudiant à la quatrième année du doctorat en phonétique à l'université McGill, à Montréal (Québec), affilié au [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/) et au [Centre de recherche sur le cerveau, le langage et la musique (CRBLM)](https://crblm.ca/). Je travaille sous la direction du professeur [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) et de la professeure [Meghan Clayards](http://speechlearning.lab.mcgill.ca/).
+Je suis un étudiant à la quatrième année du doctorat en phonétique à l'Université McGill, à Montréal (Québec), affilié au [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/) et au [Centre de recherche sur le cerveau, le langage et la musique (CRBLM)](https://crblm.ca/). Je travaille sous la direction du professeur [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) et de la professeure [Meghan Clayards](http://speechlearning.lab.mcgill.ca/).
 
 Ma recherche relève surtout de la phonétique de corpus, mais touche à un éventail de sujets: entre autres, l'aspect dynamique de la parole, la variation et le changement linguistiques, le lien entre l'articulation et l'acoustique ainsi que l'interface phonétique/phonologie. Voici un résumé de mes principaux projets en cours:
 
