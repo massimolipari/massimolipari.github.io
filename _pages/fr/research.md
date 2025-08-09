@@ -1,7 +1,7 @@
 ---
 page_id: research
 layout: page
-permalink: /research-fr/
+permalink: /research/
 title: Recherche
 nav: true
 nav_order: 6
