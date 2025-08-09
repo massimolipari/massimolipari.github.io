@@ -3,16 +3,16 @@ page_id: about
 layout: about
 title: Bio
 permalink: /
+nav_order: 1
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1085, av. du Docteur-Penfield\n
-    Montréal (Québec)\n
-    H3A 1A7\n
-    Canada\n
+    <p>1085, av. du Docteur-Penfield<br>
+    Montréal (Québec) H3A 1A7<br>
+    Canada<br>
     <a href='mailto:massimo.lipari@mail.mcgill.ca'>massimo.lipari@mail.mcgill.ca</a></p>
 
 news: false # includes a list of news items

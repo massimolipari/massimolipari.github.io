@@ -4,7 +4,7 @@ layout: page
 permalink: /research/
 title: Recherche
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 Voici un résumé de mes principaux projets en cours:

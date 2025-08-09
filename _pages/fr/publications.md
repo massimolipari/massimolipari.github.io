@@ -2,7 +2,7 @@
 page_id: publications
 layout: page
 permalink: /pubs/
-title: Recherche et publications
+title: Publications
 sections:
   - bibquery: "@unpublished"
     text: "Articles soumis"
@@ -12,7 +12,7 @@ sections:
     text: "Communications orales et par affiches"
 years: [2024, 2023]
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
