@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1085, av. du Docteur-Penfield</p>
-    <p>Montréal, Québec</p>
+    <p>Montréal (Québec)</p>
     <p>H3A 1A7</p>
     <p>Canada</p>
-    <p><a href='mailto:massimo.lipari@mail.mcgill.ca'>prénom [point] nom de famille [a commercial] mail [point] mcgill [point] ca"</a></p>
+    <p><a href='mailto:massimo.lipari@mail.mcgill.ca'>massimo.lipari@mail.mcgill.ca</a></p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts

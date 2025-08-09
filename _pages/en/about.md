@@ -12,8 +12,8 @@ profile:
     <p>1085, av. du Docteur-Penfield</p>
     <p>Montréal (Québec)</p>
     <p>H3A 1A7</p>
-    <p>CANADA</p>
-    <p><a href='mailto:massimo.lipari@mail.mcgill.ca'>first [dot] last [at] mail [dot] mcgill [dot] ca"></a></p>
+    <p>Canada</p>
+    <p><a href='mailto:massimo.lipari@mail.mcgill.ca'>massimo.lipari@mail.mcgill.ca</a></p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
