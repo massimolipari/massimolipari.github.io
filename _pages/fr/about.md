@@ -3,7 +3,6 @@ page_id: about
 layout: about
 title: Biographie
 permalink: /
-subtitle: "Courriel: <a href='mailto:massimo.lipari@mail.mcgill.ca'>prénom [point] nom de famille [a commercial] mail [point] mcgill [point] ca"
 
 profile:
   align: right
@@ -14,11 +13,12 @@ profile:
     <p>Montréal, Québec</p>
     <p>H3A 1A7</p>
     <p>Canada</p>
+    <p><a href='mailto:massimo.lipari@mail.mcgill.ca'>prénom [point] nom de famille [a commercial] mail [point] mcgill [point] ca"</a></p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Je suis candidat au doctorat en phonétique à l'Université McGill, à Montréal (Québec), affilié au [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/) et au [Centre de recherche sur le cerveau, le langage et la musique (CRBLM)](https://crblm.ca/). Je travaille sous la direction du professeur [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) et de la professeure [Meghan Clayards](http://speechlearning.lab.mcgill.ca/).

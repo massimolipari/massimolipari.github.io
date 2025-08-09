@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: Bio
 permalink: /
-subtitle: "E-mail: <a href='mailto:massimo.lipari@mail.mcgill.ca'>first [dot] last [at] mail [dot] mcgill [dot] ca"
+subtitle: 
 
 profile:
   align: right
@@ -11,14 +11,15 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1085, av. du Docteur-Penfield</p>
-    <p>Montréal, Québec</p>
+    <p>Montréal (Québec)</p>
     <p>H3A 1A7</p>
-    <p>Canada</p>
+    <p>CANADA</p>
+    <p><a href='mailto:massimo.lipari@mail.mcgill.ca'>first [dot] last [at] mail [dot] mcgill [dot] ca"></a></p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm a doctoral candidate in phonetics at McGill University in Montreal, Quebec, affiliated with the [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/) and the [Centre for Research on Brain, Language and Music (CRBLM)](https://crblm.ca/). My supervisors are Profs. [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) and [Meghan Clayards](http://speechlearning.lab.mcgill.ca/).
