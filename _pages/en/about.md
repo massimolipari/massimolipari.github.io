@@ -3,7 +3,6 @@ page_id: about
 layout: about
 title: Bio
 permalink: /
-subtitle: 
 
 profile:
   align: right
