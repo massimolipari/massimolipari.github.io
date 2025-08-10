@@ -301,6 +301,8 @@ ul.task-list input[type="checkbox"] {
     &:hover {
       color: var(--global-hover-color);
     }
+
+    padding-left:3em
   }
 
   .navbar-nav .nav-item.active > .nav-link {
@@ -687,9 +689,9 @@ footer.sticky-bottom {
     color: var(--global-text-color);
     border-top: 1px solid var(--global-text-color);
     padding-top: 1rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
     text-align: right;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 
   ol.bibliography {
@@ -840,6 +842,31 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
+}
+
+// Custom bibliography code adapted from here: https://github.com/alshedivat/al-folio/issues/1264
+
+@media (max-width: 576px) {
+  .hidden-mobile {
+    display: none;
+  }
+  /* Publications - Year display in mobile */
+  h3.year {
+  margin-bottom: 2rem!important;
+  // reset
+  border-top: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+  border-top: 1px solid var(--global-text-color)
+}
+}
+
+/* Bib type style */
+p.bibtitle {
+color: var(--global-theme-color);
+font-weight: 400;
+font-size: 1.5em;
+text-align: left;
 }
 
 // Rouge Color Customization
@@ -1349,29 +1376,4 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
-}
-
-// Custom bibliography code adapted from here: https://github.com/alshedivat/al-folio/issues/1264
-
-@media (max-width: 576px) {
-  .hidden-mobile {
-    display: none;
-  }
-  /* Publications - Year display in mobile */
-  h3.year {
-  margin-bottom: 2rem!important;
-  // reset
-  border-top: 0 !important;
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-  border-top: 1px solid var(--global-text-color)
-}
-}
-
-/* Bib type style */
-p.bibtitle {
-color: var(--global-theme-color);
-font-weight: 400;
-font-size: 2em;
-text-align: left;
 }
