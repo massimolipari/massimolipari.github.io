@@ -305,6 +305,11 @@ ul.task-list input[type="checkbox"] {
     padding-left:3em
   }
 
+  #language{
+    text-decoration: underline;
+    font-weight: bolder;
+  }
+
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
@@ -733,6 +738,7 @@ footer.sticky-bottom {
       }
 
       .author {
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -743,8 +749,8 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: 600;
         }
 
         > span.more-authors {
