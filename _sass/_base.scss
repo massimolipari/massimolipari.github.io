@@ -687,10 +687,9 @@ footer.sticky-bottom {
 
   h2.bibliography {
     color: var(--global-text-color);
-    border-top: 1px solid var(--global-text-color);
     padding-top: 1rem;
-    margin-top: 1rem;
-    text-align: right;
+    margin-top: 0rem;
+    text-align: left;
     font-size: 1.25rem;
   }
 
@@ -864,7 +863,7 @@ footer.sticky-bottom {
 /* Bib type style */
 p.bibtitle {
 color: var(--global-theme-color);
-font-weight: 400;
+font-weight: 500;
 font-size: 1.5em;
 text-align: left;
 }
