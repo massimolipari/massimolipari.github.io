@@ -10,7 +10,7 @@ sections:
     text: "Conference proceedings"
   - bibquery: "@misc"
     text: "Talks and posters"
-years: ["Under review", 2025, 2024, 2023]
+years: [2025, 2024, 2023]
 nav: true
 nav_order: 3
 ---
