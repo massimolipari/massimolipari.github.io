@@ -4,13 +4,13 @@ layout: page
 permalink: /pubs/
 title: Publications
 sections:
-  - bibquery: "@unpublished"
-    text: "Under review"
+  - bibquery: "@article"
+    text: "Journal articles"
   - bibquery: "@inproceedings"
     text: "Conference proceedings"
   - bibquery: "@misc"
     text: "Talks and posters"
-years: [2024, 2023]
+years: ["Under review", 2025, 2024, 2023]
 nav: true
 nav_order: 3
 ---
