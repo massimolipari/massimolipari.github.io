@@ -193,7 +193,7 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
@@ -206,6 +206,13 @@
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+        {% endif %}
+      {% endif %}
+      {% if entry.doi %}
+        {% if entry.doi contains '://' %}
+          <a href="{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        {% else %}
+          <a href="{{ entry.doi | prepend: 'https://doi.org/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
