@@ -128,7 +128,7 @@
                 {% assign other_language = site.languages.last %}
                 {% assign other_language_long = site.languages_long.last %}
               {% else %}
-                {% assign other_language = site.languages_long.first %}
+                {% assign other_language = site.languages.first %}
               {% endif %}
               <li class="nav-item">
                 {% if site.active_lang == site.default_lang %}
@@ -136,7 +136,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ other_language | split: "-" | last }}"></span>
                     {% else %}
-                      <span id="language">{{ other_language_long }}</spanspan>
+                      <span id="language">{{ other_language_long }}</span>
                     {%- endif -%}
                   </a>
                 {% else %}
