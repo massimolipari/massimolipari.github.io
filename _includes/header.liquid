@@ -134,7 +134,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ other_language | split: "-" | last }}"></span>
                     {% else %}
-                      <span class="btn">{{ other_language | upcase }}</span>
+                      {{ other_language | upcase }}
                     {%- endif -%}
                   </a>
                 {% else %}
