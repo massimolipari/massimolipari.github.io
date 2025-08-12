@@ -63,6 +63,17 @@ cv:
   work: Work
 publications:
   abstract: Abstract
+  preprint: Preprint
+  bibtex: BibTeX
+  html: HTML
+  doi: DOI
+  supp: Suppl. materials
+  video: Video
+  blog: Blog
+  code: Code
+  poster: Poster
+  slides: Slides
+  website: Website
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
