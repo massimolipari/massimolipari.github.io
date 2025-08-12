@@ -392,6 +392,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 languages: ["en", "fr"]
+languages_long: ["English", "Français"]
 default_lang: "en"
 exclude_from_localization: ["assets"]
 lang_from_path: true
