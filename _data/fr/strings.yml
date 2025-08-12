@@ -80,6 +80,19 @@ footer_text: > # the ">" symbol means to ignore newlines until "titles:"
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 latest_posts: latest posts
 months:
+  bibtex:
+      jan: janvier
+      feb: février
+      mar: mars
+      apr: avril
+      may: mai
+      jun: juin
+      jul: juillet
+      aug: août
+      sep: septembre
+      oct: octobre
+      nov: novembre
+      dec: décembre
   long:
     january: janvier
     february: février
