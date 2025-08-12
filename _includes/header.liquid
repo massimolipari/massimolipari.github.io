@@ -123,13 +123,9 @@
           <!-- Toogle language -->
           {% if site.languages.size >= 2 %}
             {% if site.languages.size == 2 %}
-              {% if site.active_lang == site.languages.first %}
-                {% assign default_language_long = site.languages_long.first %}
-                {% assign other_language = site.languages.last %}
-                {% assign other_language_long = site.languages_long.last %}
-              {% else %}
-                {% assign other_language = site.languages.first %}
-              {% endif %}
+              {% assign default_language_long = site.languages_long.first %}
+              {% assign other_language = site.languages.last %}
+              {% assign other_language_long = site.languages_long.last %}
               <li class="nav-item">
                 {% if site.active_lang == site.default_lang %}
                   <a class="nav-link" {% static_href -%} href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}" {%- endstatic_href %}>
@@ -144,7 +140,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ site.default_lang | split: "-" | last }}"></span>
                     {% else %}
-                      <span id="language">{{ site.default_lang }}</span>
+                      <span id="language">{{ default_language_long }}</span>
                     {%- endif -%}
                   </a>
                 {% endif %}
