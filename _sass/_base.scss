@@ -305,8 +305,16 @@ ul.task-list input[type="checkbox"] {
     padding-left:3em
   }
 
-  #language{
-    font-weight: bolder;
+  #language {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 3px;
+
+    &:hover {
+      color: var(--global-hover-color);
+      border-color: var(--global-hover-color);
+    }
   }
 
   .navbar-nav .nav-item.active > .nav-link {
