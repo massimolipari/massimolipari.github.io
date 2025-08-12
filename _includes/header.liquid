@@ -124,8 +124,9 @@
           {% if site.languages.size >= 2 %}
             {% if site.languages.size == 2 %}
               {% if site.active_lang == site.languages.first %}
-                {% assign default_language = site.languages_long.first %}
-                {% assign other_language = site.languages_long.last %}
+                {% assign default_language_long = site.languages_long.first %}
+                {% assign other_language = site.languages.last %}
+                {% assign other_language_long = site.languages_long.last %}
               {% else %}
                 {% assign other_language = site.languages_long.first %}
               {% endif %}
@@ -135,7 +136,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ other_language | split: "-" | last }}"></span>
                     {% else %}
-                      <span id="language">{{ other_language }}</spanspan>
+                      <span id="language">{{ other_language_long }}</spanspan>
                     {%- endif -%}
                   </a>
                 {% else %}
@@ -143,7 +144,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ site.default_lang | split: "-" | last }}"></span>
                     {% else %}
-                      <span id="language">{{ default_language }}</span>
+                      <span id="language">{{ default_language_long }}</span>
                     {%- endif -%}
                   </a>
                 {% endif %}
