@@ -4,13 +4,13 @@ layout: page
 permalink: /pubs/
 title: Publications
 sections:
-  - bibquery: "@unpublished"
-    text: "Articles soumis"
+  - bibquery: "@article"
+    text: "Articles de revue"
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
   - bibquery: "@misc"
-    text: "Communications orales et par affiches"
-years: [2024, 2023]
+    text: "Présentations orales et affichées"
+years: ["Soumis", 2025, 2024, 2023]
 nav: true
 nav_order: 3
 ---
