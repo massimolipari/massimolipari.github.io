@@ -7,7 +7,7 @@ sections:
   - bibquery: "@article"
     text: "Articles de revue"
   - bibquery: "@inebook"
-    text: "Chapitres de "
+    text: "Chapitres de livres numériques"
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
 years: ["Soumis", 2025, 2024, 2023]
