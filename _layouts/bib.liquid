@@ -155,12 +155,12 @@
       {% if entry.bookauthor %}
         {% assign bookauthors = entry.bookauthor | split: " and " %}
         {%- for bookauthor in bookauthors -%}
-          {% assign bookauthor_names = bookauthor | split: ", "%}
-          {% capture entrytype %}{{ entrytype }}{{- bookauthor_names[1] }}{{ " " }}{{ bookauthor_names[0] -}}{% endcapture %}
           {%- if forloop.length > 1 -%}
             {% if forloop.first == false %}{% assign entrytype = entrytype | append: ",&nbsp;" %}{% endif %}
             {%- if forloop.last %}{% assign entrytype = entrytype | append: "&&nbsp;" %}{% endif -%}
           {% endif %}
+          {% assign bookauthor_names = bookauthor | split: ", "%}
+          {% capture entrytype %}{{ entrytype }}{{- bookauthor_names[1] }}{{ " " }}{{ bookauthor_names[0] -}}{% endcapture %}
           {% endfor %}
         {% assign entrytype = entrytype | append: ", " %}
       {% endif %}
