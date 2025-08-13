@@ -79,7 +79,7 @@
 
         {%- if forloop.length > 1 -%}
           {% if forloop.first == false and forloop.last == false %},&nbsp;{% endif %}
-          {%- if forloop.last and author_array_limit == author_array_size %}&&nbsp;{% endif -%}
+          {%- if forloop.last and author_array_limit == author_array_size %}&nbsp;&&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
           <em>
@@ -157,7 +157,7 @@
         {%- for bookauthor in bookauthors -%}
           {%- if forloop.length > 1 -%}
             {% if forloop.first == false and forloop.last == false %}{% assign entrytype = entrytype | append: ",&nbsp;" %}{% endif %}
-            {%- if forloop.last %}{% assign entrytype = entrytype | append: "&&nbsp;" %}{% endif -%}
+            {%- if forloop.last %}{% assign entrytype = entrytype | append: "&nbsp;&&nbsp;" %}{% endif -%}
           {% endif %}
           {% assign bookauthor_names = bookauthor | split: ", "%}
           {% capture entrytype %}{{ entrytype }}{{- bookauthor_names[1] }}{{ " " }}{{ bookauthor_names[0] -}}{% endcapture %}
