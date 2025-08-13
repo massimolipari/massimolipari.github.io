@@ -156,12 +156,12 @@
         {%- for author in entry.bookauthor_array -%}
           {% capture entrytype %}{{ entrytype }}{{- author.first }}{{ " " }}{{ author.last -}}{% endcapture %}
           {%- if forloop.length > 1 -%}
-            {% if forloop.first == false %}{% assign entrytype | append ",&nbsp;" %}{% endif %}
-            {%- if forloop.last %}{% assign entrytype | append "&&nbsp;" %}{% endif -%}
+            {% if forloop.first == false %}{% assign entrytype = entrytype | append ",&nbsp;" %}{% endif %}
+            {%- if forloop.last %}{% assign entrytype = entrytype | append "&&nbsp;" %}{% endif -%}
           {% endif %}
         {% endfor %}
       {% endif %}
-      {% assign entrytype | append {{ entry.booktitle }} | append "</em>" %}
+    {% capture entrytype %}{{ entrytype }}{{ entry.booktitle }}{{ "</em>, " }}{% endcapture %}%}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
     {% else %}
