@@ -162,7 +162,7 @@
             {%- if forloop.last %}{% assign entrytype = entrytype | append: "&&nbsp;" %}{% endif -%}
           {% endif %}
         {% endfor %}
-        {% assign entrytype = entrytype | append: ", " %}{{ entrytype }}<em>{{ entry.booktitle }}</em>{% endcapture %}
+        {% assign entrytype = entrytype | append: ", " %}
       {% endif %}
     {% capture entrytype %}{{ entrytype }}<em>{{ entry.booktitle }}</em>{% endcapture %}
     {% if entry.version %}
