@@ -6,7 +6,7 @@ title: Publications
 sections:
   - bibquery: "@article"
     text: "Articles de revue"
-  - bibquery: "@inbook"
+  - bibquery: "@inebook"
     text: "Chapitres de livres numériques"
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
