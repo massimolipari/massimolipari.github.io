@@ -153,7 +153,7 @@
     {% elsif proceedings contains entry.type %}
       {% assign entrytype = 'In ' %}
       {% if entry.bookauthor %}
-        {% assign bookauthors = entry.bookauthors | split: " and " %}
+        {% assign bookauthors = entry.bookauthor | split: " and " %}
         {%- for bookauthor in bookauthors -%}
           {% assign bookauthor_names = bookauthor | split: ", "%}
           {% capture entrytype %}{{ entrytype }}{{- bookauthor_names[1] }}{{ " " }}{{ bookauthor_names[0] -}}{% endcapture %}
@@ -161,9 +161,7 @@
             {% if forloop.first == false %}{% assign entrytype = entrytype | append: ",&nbsp;" %}{% endif %}
             {%- if forloop.last %}{% assign entrytype = entrytype | append: "&&nbsp;" %}{% endif -%}
           {% endif %}
-        {% else %}
-          'bookauthors' is empty
-        {% endfor %}
+          {% endfor %}
         {% assign entrytype = entrytype | append: ", " %}
       {% endif %}
     {% capture entrytype %}{{ entrytype }}<em>{{ entry.booktitle }}</em>{% endcapture %}
