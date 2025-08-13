@@ -6,10 +6,10 @@ title: Publications
 sections:
   - bibquery: "@article"
     text: "Journal articles"
+  - bibquery: "@inebook"
+    text: "E-book chapters"
   - bibquery: "@inproceedings"
     text: "Conference proceedings"
-  - bibquery: "@misc"
-    text: "Talks and posters"
 years: ["Under review", 2025, 2024, 2023]
 nav: true
 nav_order: 3

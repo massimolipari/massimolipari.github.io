@@ -6,10 +6,10 @@ title: Publications
 sections:
   - bibquery: "@article"
     text: "Articles de revue"
+  - bibquery: "@inebook"
+    text: "Chapitres de "
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
-  - bibquery: "@misc"
-    text: "Présentations orales et affichées"
 years: ["Soumis", 2025, 2024, 2023]
 nav: true
 nav_order: 3
