@@ -161,6 +161,8 @@
             {% if forloop.first == false %}{% assign entrytype = entrytype | append: ",&nbsp;" %}{% endif %}
             {%- if forloop.last %}{% assign entrytype = entrytype | append: "&&nbsp;" %}{% endif -%}
           {% endif %}
+        {% else %}
+          'bookauthors' is empty
         {% endfor %}
         {% assign entrytype = entrytype | append: ", " %}
       {% endif %}
