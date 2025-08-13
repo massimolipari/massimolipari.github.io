@@ -6,7 +6,7 @@ title: Publications
 sections:
   - bibquery: "@article"
     text: "Journal articles"
-  - bibquery: "@inebook"
+  - bibquery: "@inbook"
     text: "E-book chapters"
   - bibquery: "@inproceedings"
     text: "Conference proceedings"
