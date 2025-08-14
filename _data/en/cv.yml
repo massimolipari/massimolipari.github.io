@@ -1,29 +1,30 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (Linguistics)
-      institution: McGill University, Department of Linguistics
+    - title: PhD, Linguistics
+      institution: McGill University
       location: Montreal, Quebec
-      year: 2021 –
+      year: 2021–
       description:
-        - "Research on corpus phonetics: language variation and change, speech dynamics, acoustic-articulatory mapping, phonetics/phonology interface."
-        - Supervised by Profs. Morgan Sonderegger and Meghan Clayards.
-        - Originally admitted to the MA program, fast-tracked in Winter 2023.
+        - Advisors: Morgan Sonderegger and Meghan Clayards
 
-    - title: Visiting Student Researcher
-      institution: University of Glasgow, Department of English Language & Linguistics
+    - title: Student
+      institution: LSA Summer Institute
+      location: Eugene, Oregon, USA
+      year: July–Aug 2024
+
+    - title: Visiting student researcher
+      institution: University of Glasgow
       location: Glasgow, Scotland
-      year: Sept – Oct 2024
+      year: Sept–Oct 2024
       description:
-        - Began a research project on articulatory and acoustic dynamics of rhotic consonants in Scottish English.
-        - Supervised by Prof. Jane Stuart-Smith.
+        - Supervised by Jane Stuart-Smith
 
-    - title: Bachelor of Arts (Double major in Linguistics and Philosophy)
+    - title: Bachelor of Arts, Linguistics and Philosophy
       institution: McGill University, Faculty of Arts
       location: Montreal, Quebec
-      year: 2018 – 2021
-      description:
-        - Dean's honour list (highest honour awarded).
+      year: 2018–2021
+
 
 - title: Teaching & supervision
   type: time_table
@@ -32,7 +33,7 @@
       year: Winter 2023
   
     - title: Graduate Student Mentor
-      year: Jan – Aug 2024
+      year: Jan–Aug 2024
       description:
         - Part of McGill's Program for Undergraduate Research in Linguistics (PURL).
         - Supervised an undergraduate student (Laurie Dumont) in work to collect and prepare (transcribe and force align) speech data for the AssNat corpus project.
@@ -66,7 +67,7 @@
         - "Instructor: Prof. Brendan Gillon."
 
     - title: Research Assistant, prosodylab (McGill University)
-      year: Jan – Aug 2021
+      year: Jan–Aug 2021
       description:
         - Worked under Prof. Michael Wagner.
 
@@ -75,31 +76,31 @@
   contents:
     - title: Doctoral Award
       institution: Social Sciences and Humanities Research Council of Canada (SSHRC)
-      year: 2024 – 2027
+      year: 2024–2027
       description:
         - CAD 120,000
 
     - title: Doctoral Training Scholarship (B2Z)
-      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
-      year: 2024 – 2028
+      institution: Fonds de recherche du Québec–Société et culture (FRQSC)
+      year: 2024–2028
       description:
         - CAD 100,000 (reduced to 23,333 due to partial overlap with SSHRC award)
 
     - title: Master's Training Scholarship (B1Z)
-      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
-      year: 2022 – 2023
+      institution: Fonds de recherche du Québec–Société et culture (FRQSC)
+      year: 2022–2023
       description:
         - CAD 17,500
 
-    - title: Canada Graduate Scholarship – Master's
+    - title: Canada Graduate Scholarship–Master's
       institution: Social Sciences and Humanities Research Council of Canada (SSHRC)
-      year: 2021 – 2022
+      year: 2021–2022
       description:
         - CAD 17,500
 
     - title: J. W. McConnell Entrance Scholarship
       institution: McGill University
-      year: 2018 – 2019
+      year: 2018–2019
       description:
         - CAD 3,000
 
@@ -146,9 +147,9 @@
     - name: Conference organization
       value: "Montréal-Ottawa-Toronto-Hamilton Phonology/Phonetics Workshop (2024)."
     - name: Reading group organization
-      value: "McGill P* (Phonetics/Phonology) Reading Group (Fall 2022 – Winter 2024); McGill Bayesian Statistics Reading Group (Winter 2024)."
+      value: "McGill P* (Phonetics/Phonology) Reading Group (Fall 2022–Winter 2024); McGill Bayesian Statistics Reading Group (Winter 2024)."
     - name: Other
-      value: Graduate student representative at departmental meetings (Fall 2024 – present).
+      value: Graduate student representative at departmental meetings (Fall 2024–present).
 
 - title: Technical skills
   type: map
@@ -183,4 +184,4 @@
 - title: Languages
   type: list
   contents:
-    - <span class="font-weight-bold">English</span> (native), <span class="font-weight-bold">French</span> (near-native), <span class="font-weight-bold">German</span> (advanced), <span class="font-weight-bold">Italian</span> (heritage).
+    - <span class="font-weight-bold">English</span> (native), <span class="font-weight-bold">French</span> (near-native), <span class="font-weight-bold">German</span> (advanced), <span class="font-weight-bold">Italian</span> (heritage), <span class="font-weight-bold">Japanese</span> (beginner)

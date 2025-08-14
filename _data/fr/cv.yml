@@ -1,29 +1,30 @@
-- title: Éducation
+- title: Formation universitaire
   type: time_table
   contents:
-    - title: Doctorat (Linguistique)
-      institution: Université McGill, Département de linguistique
+    - title: Doctorat en linguistique
+      institution: Université McGill
       location: Montréal (Québec)
-      year: 2021 –
+      year: 2021–
       description:
-        - "Recherche en phonétique de corpus: variation et changement linguistiques, aspect dynamique de la parole, lien entre l'articulation et l'acoustique, interface phonétique/phonologie."
-        - Sous la direction du le professeur Morgan Sonderegger et de la professeure Meghan Clayards.
-        - "D'abord admis au programme de maîtrise: passage accélé au doctorat à l'hiver 2023."
+        - Sous la direction de Morgan Sonderegger et Meghan Clayards
+
+    - title: Étudiant
+      institution: LSA Summer Institute
+      location: Eugene (Oregon, États-Unis)
+      year: juill.–août 2024
 
     - title: Chercheur étudiant invité
-      institution: Université de Glasgow, Département de langue anglaise et de linguistique
+      institution: Université de Glasgow
       location: Glasgow (Écosse)
-      year: SEP – OCT 2024
+      year: sept.–oct. 2024
       description:
-        - Début d'un projet de recherche sur les aspects dynamiques de l'articulation et de l'acoustique des consonnes rhotiques en anglais écossais.
-        - Sous la direction de la professeure Jane Stuart-Smith.
+        - Sous la direction de Jane Stuart-Smith
 
-    - title: Baccalauréat ès arts (Double majeure en linguistique et en philosophie)
-      institution: Université McGill, Faculté des arts
+    - title: Baccalauréat ès arts, linguistique et philosophie
+      institution: Université McGill
       location: Montréal (Québec)
-      year: 2018 – 2021
-      description:
-        - Tableau d'honneur du doyen (plus haute distinction décernée).
+      year: 2018–2021
+
 
 - title: Enseignement et encadrement
   type: time_table
@@ -32,11 +33,12 @@
       year: Hiver 2023
   
     - title: Mentor
-      year: JAN – AOÛT 2024
+      year: janv.–août 2024
       description:
         - Dans le cadre du <i>Program for Undergraduate Research in Linguistics</i> (PURL) de l'Université McGill.
         - "Encadrement d'une étudiante de premier cycle (Laurie Dumont) dans le cadre du projet du corpus AssNat: collecte et pépartion (transcription et alignement forcé) de données vocales."
-        
+
+
 - title: Autre expérience académique
   type: time_table
   contents:
@@ -66,42 +68,44 @@
         - "Enseignant: Brendan Gillon."
 
     - title: Auxiliaire de recherche, prosodylab (Université McGill)
-      year: JAN – AOÛT 2021
+      year: JAN–AOÛT 2021
       description:
         - Sous la direction du professeur Michael Wagner.
+
 
 - title: Bourses de recherche et financement
   type: time_table
   contents:
     - title: Bourse doctorale
       institution: Conseil de recherche en sciences humaines du Canada (CRSH)
-      year: 2024 – 2027
+      year: 2024–2027
       description:
         - CAD 120,000
 
     - title: Bourse de doctorat en recherche (B2Z)
-      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
-      year: 2024 – 2028
+      institution: Fonds de recherche du Québec–Société et culture (FRQSC)
+      year: 2024–2028
       description:
         - CAD 100,000 (réduit à 23,333 en raison d'un chevauchement partiel avec la bourse du CRSH ci-dessus)
 
     - title: Bourse de maîtrise en recherche (B1Z)
-      institution: Fonds de recherche du Québec – Société et culture (FRQSC)
-      year: 2022 – 2023
+      institution: Fonds de recherche du Québec–Société et culture (FRQSC)
+      year: 2022–2023
       description:
         - CAD 17,500
 
-    - title: Bourse d'études supérieures du Canada – Maîtrise
+    - title: Bourse d'études supérieures du Canada–Maîtrise
       institution: Conseil de recherche en sciences humaines (CRSH)
-      year: 2021 – 2022
+      year: 2021–2022
       description:
         - CAD 17,500
 
     - title: Bourse d'admission J. W. McConnell
       institution: Université McGill
-      year: 2018 – 2019
+      year: 2018–2019
       description:
         - CAD 3,000
+
 
 - title: Bourses de mobilité
   type: time_table
@@ -136,6 +140,7 @@
       description:
         - CAD 600
 
+
 - title: Service à la communauté académique
   type: map
   contents:
@@ -146,9 +151,10 @@
     - name: Organisation de colloques
       value: "Atelier de phonétique/phonologie Montréal-Ottawa-Toronto-Hamilton (2024)."
     - name: Organisation de groupes de lecture
-      value: "Groupe de lecture P* (phonétique/phonologie) de McGill (automne 2022 – hiver 2024); Groupe de lecture sur la statistique bayésienne de McGill (hiver 2024)."
+      value: "Groupe de lecture P* (phonétique/phonologie) de McGill (automne 2022–hiver 2024); Groupe de lecture sur la statistique bayésienne de McGill (hiver 2024)."
     - name: Autres
-      value: Représentant des étudiants de cycle supérieur aux réunions du département de linguistique de McGill (automne 2024 – aujourd'hui).
+      value: Représentant des étudiants de cycle supérieur aux réunions du département de linguistique de McGill (automne 2024–aujourd'hui).
+
 
 - title: Compétences techniques
   type: map
@@ -171,6 +177,7 @@
     - name: 'LaTeX <span style="font-weight: 300">(débutant)</span>'
       value: Mise en page.
 
+
 - title: Méthodes d'analyse statistique
   type: list
   contents:
@@ -180,7 +187,8 @@
     - <span class="font-weight-bold">Régression linéaire/logistique (à effets mixtes) bayésiennes</span> (débutant)
     - <span class="font-weight-bold">Inférence causale</span> (débutant)
 
+
 - title: Langues
   type: list
   contents:
-    - <span class="font-weight-bold">Anglais</span> (langue maternelle), <span class="font-weight-bold">français</span> (quasi-natif), <span class="font-weight-bold">allemand</span> (avancé), <span class="font-weight-bold">italien</span> (langue d'origine).
+    - <span class="font-weight-bold">Anglais</span> (langue maternelle), <span class="font-weight-bold">français</span> (quasi-natif), <span class="font-weight-bold">allemand</span> (avancé), <span class="font-weight-bold">italien</span> (langue d'origine), <span class="font-weight-bold">japonais</span> (débutant)
