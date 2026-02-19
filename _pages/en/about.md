@@ -21,10 +21,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a doctoral candidate in phonetics at McGill University in Montreal, Quebec, affiliated with the [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/) and the [Centre for Research on Brain, Language and Music (CRBLM)](https://crblm.ca/). My supervisors are Profs. [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) and [Meghan Clayards](http://speechlearning.lab.mcgill.ca/).
+I'm a phonetician and doctoral candidate in linguistics at McGill University in Montreal, Quebec, where I'm supervised by [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) and [Meghan Clayards](http://speechlearning.lab.mcgill.ca/). I'm affiliated with the [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/), the [Speech Learning Lab](http://speechlearning.lab.mcgill.ca/), and the [Centre for Research on Brain, Language and Music (CRBLM)](https://crblm.ca/).
 
-Most of my work falls under the label of corpus phonetics, but touches on a broad set of topics. These include the dynamics of speech, language variation and change, the mapping between articulation and acoustics, and the phonetic/phonology interface. 
+My research examines language variation and change, phonetic typology, and sociophonetics, primarily using large-scale speech corpora I have collected or adapted for phonetic analysis. I work on a broad range of empirical phenomena, including fine phonetic detail in vowels, sibilants, and rhotic sounds. I'm also interested in the phonetics-phonology interface, the mapping between articulation and acoustics, and the dynamics of speech.
 
-In a previous life, I studied a bit of semantics, philosophy of language, and logic, and I have some experience teaching these topics as well.
-
-In English, I pronounce my name [ˈma.sɪ.moʊ lɪˈpa.ɹi], but I'm not very picky (especially about the quality of the low vowels).
+In English, I pronounce my name [ˈma.sɪ.moʊ lɪˈpa.ɹi], but anything close is fine!

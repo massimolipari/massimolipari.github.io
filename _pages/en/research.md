@@ -7,12 +7,16 @@ nav: true
 nav_order: 2
 ---
 
-Here are my main ongoing projects:
+Below are brief summaries of some of the various projects I'm currently working on.
 
-1. I maintain a corpus of Quebec French speech data, the *AssNat* parliamentary corpus originally collected by Peter Milne [(described in his thesis)](https://ruor.uottawa.ca/items/b76e477e-316b-4ee3-b7fd-49463f807248). I've led work that has tripled the amount of audio data and collected speaker metadata to allow for sociolingusitic analyses. The corpus is planned to be made public soon, but for the time being you can request access [here](https://github.com/massimolipari/corpus_assnat).
+## Cross-linguistic and inter-speaker variation in sibilant acoustics
 
-2. I study sound change in Quebec French (using the aformentioned corpus). I'm especially interested the development of rhoticity in the vowels /ø, œ, œ̃/, which is a typologically rare sound change. Using generalized additive mixed models (GAMMs), I examine the change in formant trajectory shape in apparent time and describe the social and regional patterning of rhoticity. Ultimately, this project aims to address questions relating to the actuation and spread of sound change.
+I'm working on developing a new speech database for comparing patterns of cross-linguistic and inter-speaker variation. I'm adapting a number of large read speech corpora originally created for automatic speech recognition technology development, taken from a variety of sources, for phonetic research. To date, data for 32 languages and more than 4,600 speakers have been collected. I use this database in a submitted paper examining the spectral dynamics of /s/ [(preprint here)](https://doi.org/10.31234/osf.io/m4ksy_v1), and in ongoing work investigating how much of apparent gender differences in sibilant acoustics is physiologically-grounded (due to variation in vocal tract length) versus performed across languages.
 
-3. I also work on the acoustic dynamics of sibilants. Recent work (not yet published) explores variability in acoustic dynamics of /s/ both within and across languages in the large-scale [GlobalPhone](https://ieeexplore.ieee.org/abstract/document/6639248?casa_token=zfOt03SbtdgAAAAA:NKnjKjoAUaAlqlOWqCuaRwPZX_EKSsXD9Y4A_uZsHvj7tc3r5qy0u85wQukp6yThW10Up0k) read speech corpus, using functional principal components analysis (fPCA) to determine the primary dimensions of variation.
+## Variation and change in Quebec French
 
-4. I am at the early stages of a collaboration with [Prof. Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/) (University of Glasgow), where we will be investigating the articulatory and acoustic dynamics of rhotic consonants in Scottish English and other Englishes.
+I maintain the *ParlBleu* corpus of spoken Quebec French, a corpus of parliamentary speech created from proceedings of the National Assembly of Quebec, which can be accessed [here](https://osf.io/35fk8/). This is an expanded version of Peter Milne's *AssNat* corpus [(described in his thesis)](https://ruor.uottawa.ca/items/b76e477e-316b-4ee3-b7fd-49463f807248). I've lead work (with help from [Laurie Dumont](https://www.linkedin.com/in/laurie-dumont-9690262bb/)) to bring the corpus up to a total size of more than 31 hours of data across 156 speakers and to collect as much speaker metadata as possible to allow for sociolinguistic analyses. In [a 2025 paper in *Laboratory Phonology*](https://doi.org/10.16995/labphon.11678), I use the corpus to investigate the development of a rhotic quality in the vowels /ø, œ, œ̃/, examining change in F3 trajectory shape in apparent time and describing the social and regional patterning of rhoticity in Quebec French.
+
+## Articulation and acoustics in English rhotics
+
+I'm also collaborating with [Eleanor Lawson](https://www.strath.ac.uk/staff/lawsoneleanordr/) (University of Strathclyde) and [Jane Stuart-Smith](https://www.gla.ac.uk/schools/critical/staff/janestuart-smith/) (University of Glasgow) on the relationship between tongue shape (bunched versus retroflex articulation) and formant (F1--F4) trajectories in rhotic sounds across varieties of English (Scottish, Irish, and North American). We're investigating the extent to which formant patterns systematically relate to tongue shape, a point on which evidence from previous work is mixed.

@@ -21,10 +21,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Je suis candidat au doctorat en phonétique à l'Université McGill, à Montréal (Québec), affilié au [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/) et au [Centre de recherche sur le cerveau, le langage et la musique (CRBLM)](https://crblm.ca/). Je travaille sous la direction du professeur [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) et de la professeure [Meghan Clayards](http://speechlearning.lab.mcgill.ca/).
+Je suis phonéticien et candidat au doctorat en linguistique à l'Université McGill, à Montréal (Québec), où je travaille sous la direction de [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) et de [Meghan Clayards](http://speechlearning.lab.mcgill.ca/). Je suis affilié au [Montréal Computational & Quantitative Linguistics Lab (MCQLL)](https://mcqll.org/), au [Speech Learning Lab](http://speechlearning.lab.mcgill.ca/) et au [Centre de recherche sur le cerveau, le langage et la musique (CRBLM)](https://crblm.ca/).
 
-Ma recherche relève surtout de la phonétique de corpus, mais touche à un éventail de sujets: entre autres, l'aspect dynamique de la parole, la variation et le changement linguistiques, le lien entre l'articulation et l'acoustique ainsi que l'interface phonétique/phonologie.
+Ma recherche se concentre sur la variation et le changement linguistiques, sur la typologie phonétique et sur la sociophonétique, se basant principalement sur des analyses à large échelle effectuées à l'aide de corpus oraux que j'ai amassés ou que j'ai adaptés pour la recherche phonétique. J'examine un large éventail de phénomènes empiriques, dont le détail phonétique fin des voyelles, des sibilantes et des consonnes et voyelles rhotiques. Je m'intéresse aussi à l'interface phonétique/phonologie, le lien entre l'articulation et l'acoustique et l'aspect dynamique de la parole.
 
-Dans une ancienne vie, j'ai étudié un peu de sémantique, de philosophie du language et de logique: j'ai aussi de l'expérience dans l'enseignement de ces matières.
-
-En français, je prononce mon nom [masimo lipaʁi], donc pas besoin de trop se casser la tête!
+En français, je prononce mon nom [masimo lipaʁi], mais tout ce qui y ressemble me va!
