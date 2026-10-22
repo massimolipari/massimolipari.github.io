@@ -10,7 +10,7 @@ sections:
     text: "Chapitres de livres"
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
-years: ["En révision", 2026, 2025, 2024, 2023]
+years: ["Accepté", "Soumis", "En révision", 2026, 2025, 2024, 2023]
 nav: true
 nav_order: 3
 ---
