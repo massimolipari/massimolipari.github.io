@@ -748,6 +748,13 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .pub-year {
+        font-size: 1.25rem;
+        font-weight: 500;
+        line-height: 1.2;
+        color: var(--global-text-color);
+      }
+
       .author {
 
         a {

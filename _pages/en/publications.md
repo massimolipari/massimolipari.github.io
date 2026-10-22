@@ -37,7 +37,7 @@ nav_order: 3
     {%- endcapture -%}
 
     {%- if citecount != "0" %}
-      {% bibliography -f {{site.scholar.bibliography}} -q {{query}} %}
+      {% bibliography -f {{site.scholar.bibliography}} -q {{query}} -g none %}
     {%- endif -%}
 
   {%- endfor %}
