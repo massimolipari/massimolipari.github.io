@@ -6,11 +6,11 @@ title: Publications
 sections:
   - bibquery: "@article"
     text: "Articles de revue"
-  - bibquery: "@inebook"
-    text: "Chapitres de livres numériques"
+  - bibquery: "@inebook,@incollection"
+    text: "Chapitres de livres"
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
-years: ["Soumis", 2025, 2024, 2023]
+years: ["En révision", 2026, 2025, 2024, 2023]
 nav: true
 nav_order: 3
 ---
@@ -28,16 +28,16 @@ nav_order: 3
   <p class="bibtitle">{{section.text}}</p>
   {%- for y in page.years %}
 
-    {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
+    {%- comment -%} Build query: apply the year filter to each type in bibquery {%- endcomment -%}
+    {%- assign types = section.bibquery | split: "," -%}
+    {%- capture query -%}{%- for t in types -%}{{ t | strip }}[year={{y}}] {% endfor -%}{%- endcapture -%}
+
     {%- capture citecount -%}
-    {%- bibliography_count --file papers_fr -q {{section.bibquery}}[year={{y}}] -%}
+    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{query}} -%}
     {%- endcapture -%}
 
-    {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
     {%- if citecount != "0" %}
-
-      {% bibliography --file papers_fr -q {{section.bibquery}}[year={{y}}] %}
-
+      {% bibliography -f {{site.scholar.bibliography}} -q {{query}} %}
     {%- endif -%}
 
   {%- endfor %}
