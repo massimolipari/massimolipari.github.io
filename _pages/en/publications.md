@@ -10,7 +10,7 @@ sections:
     text: "Book chapters"
   - bibquery: "@inproceedings"
     text: "Conference proceedings"
-years: ["Accepted", "Submitted", "In revision", 2026, 2025, 2024, 2023]
+years: ["Accepted", "In revision", "Submitted", 2026, 2025, 2024, 2023]
 nav: true
 nav_order: 3
 ---

@@ -10,7 +10,7 @@ sections:
     text: "Chapitres de livres"
   - bibquery: "@inproceedings"
     text: "Actes de colloques"
-years: ["Accepté", "Soumis", "En révision", 2026, 2025, 2024, 2023]
+years: ["Accepté", "En révision", "Soumis", 2026, 2025, 2024, 2023]
 nav: true
 nav_order: 3
 ---
@@ -33,11 +33,11 @@ nav_order: 3
     {%- capture query -%}{%- for t in types -%}{{ t | strip }}[year={{y}}] {% endfor -%}{%- endcapture -%}
 
     {%- capture citecount -%}
-    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{query}} -%}
+    {%- bibliography_count -f {{site.scholar.bibliography_fr}} -q {{query}} -%}
     {%- endcapture -%}
 
     {%- if citecount != "0" %}
-      {% bibliography -f {{site.scholar.bibliography}} -q {{query}} %}
+      {% bibliography -f {{site.scholar.bibliography_fr}} -q {{query}} %}
     {%- endif -%}
 
   {%- endfor %}
