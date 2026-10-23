@@ -62,6 +62,8 @@ cv:
   volunteer: Volunteer
   work: Work
 publications:
+  in: Dans
+  and: et
   abstract: Résumé
   preprint: Manuscrit
   bibtex: BibTeX

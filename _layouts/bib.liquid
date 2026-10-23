@@ -82,7 +82,7 @@
 
         {%- if forloop.length > 1 -%}
           {% if forloop.first == false and forloop.last == false %},&nbsp;{% endif %}
-          {%- if forloop.last and author_array_limit == author_array_size %}&nbsp;&&nbsp;{% endif -%}
+          {%- if forloop.last and author_array_limit == author_array_size %}&nbsp;{{ site.data[site.active_lang].strings.publications.and }}&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
           <em>
@@ -154,13 +154,13 @@
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% assign entrytype = 'In ' %}
+      {% assign entrytype = site.data[site.active_lang].strings.publications.in | append: ' ' %}
       {% if entry.bookauthor %}
         {% assign bookauthors = entry.bookauthor | split: " and " %}
         {%- for bookauthor in bookauthors -%}
           {%- if forloop.length > 1 -%}
             {% if forloop.first == false and forloop.last == false %}{% assign entrytype = entrytype | append: ",&nbsp;" %}{% endif %}
-            {%- if forloop.last %}{% assign entrytype = entrytype | append: "&nbsp;&&nbsp;" %}{% endif -%}
+            {%- if forloop.last %}{% assign entrytype = entrytype | append: "&nbsp;" | append: site.data[site.active_lang].strings.publications.and | append: "&nbsp;" %}{% endif -%}
           {% endif %}
           {% assign bookauthor_names = bookauthor | split: ", "%}
           {% capture entrytype %}{{ entrytype }}{{- bookauthor_names[1] }}{{ " " }}{{ bookauthor_names[0] -}}{% endcapture %}
